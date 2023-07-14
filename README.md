@@ -12,9 +12,9 @@ The NewTech Computer Shop front-end project offers the following features:
 4. Order Placement: Allow users to place orders for selected items in the shopping cart.
 5. Order History: Store and display order history for each user.
 
-##Usage
+## Usage
 Once the application is running, you can use it to browse products, add items to your shopping cart, and place orders. To access additional features like user registration and order history, you'll need to create an account and log in.
 
-##Acknowledgements
+## Acknowledgements
 This front-end project uses the Bootstrap framework for responsive design and styling.
 Special thanks to the contributors and maintainers of the libraries and frameworks used in this project.
